@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">The Acme Corporation</string>
+    <string name="company_description">The company is never clearly defined in Road Runner cartoons but appears to be a
+        conglomerate which produces every product type imaginable, no matter how elaborate or extravagant—most of which
+        never work as desired or expected. In the Road Runner cartoon Beep, Beep, it was referred to as \"Acme
+        Rocket-Powered Products, Inc.\" based in Fairfield, New Jersey. Many of its products appear to be produced
+        specifically for Wile E. Coyote; for example, the Acme Giant Rubber Band, subtitled \"(For Tripping Road
+        Runners)\".
+
+        Sometimes, Acme can also send living creatures through the mail, though that isn\'t done very often. Two
+        examples of this are the Acme Wild-Cat, which had been used on Elmer Fudd and Sam Sheepdog (which doesn\'t maul
+        its intended victim, but the owner instead); and Acme Bumblebees in one-fifth bottles (which sting Wile E.
+        Coyote). The Wild Cat was used in the shorts Don\'t Give Up the Sheep and A Mutt in a Rut, while the bees were
+        used in the short Zoom and Bored.
+
+        While their products leave much to be desired, Acme delivery service is second to none; Wile E. can merely drop
+        an order into a mailbox (or enter an order on a website, as in the Looney Tunes: Back in Action movie), and have
+        the product in his hands within seconds. source: Wikepedia.com
+    </string>
+    <string name="addressLabel">Company Address</string>
+    <string name="companyAddress">38 Maplewood Ave,Maplewood, NJ 07040,USA</string>
+    <string name="hoursLabel">Hours of operation</string>
+    <string name="hoursContent">24/7</string>
+    <string name="contactLabel">Phone number</string>
+    <string name="contactContent">0800–99–88–99</string>
+</resources>
